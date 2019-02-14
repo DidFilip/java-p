@@ -11,5 +11,7 @@ public class JP {
         String name2 = "Sławek";
         String name3 = "Olga";
         System.out.println(name1 + ";" + name2 + ";" + name3);
+
+
     }
 }
