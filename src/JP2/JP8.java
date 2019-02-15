@@ -48,6 +48,7 @@ public class JP8 {
         System.out.println(salary_net * (1 +((double)vat_tax)/100));
 
         // P6
+
     }
 
 
